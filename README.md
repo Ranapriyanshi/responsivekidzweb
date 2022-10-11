@@ -1,1 +1,1 @@
-# responsivekidzweb
+# kidz-world-static
